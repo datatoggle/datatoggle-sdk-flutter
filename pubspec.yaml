@@ -1,6 +1,6 @@
 name: datatoggle
-description: A new flutter plugin project.
-version: 0.0.1
+description: Serverless Customer Data Platform
+version: 1.0.0-dev.1
 repository: https://github.com/datatoggle/datatoggle-sdk-flutter
 
 environment:
